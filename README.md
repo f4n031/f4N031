@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 Acadêmico de Licenciatura em Computação no momento.
 <!--
 **f4n031/f4N031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
